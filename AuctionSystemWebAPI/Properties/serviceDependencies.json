@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "cosmosdb1": {
+      "type": "cosmosdb",
+      "connectionId": "ConnectionStrings:CosmosDBConnection"
+    },
     "identityapp1": {
       "type": "identityapp"
     }
